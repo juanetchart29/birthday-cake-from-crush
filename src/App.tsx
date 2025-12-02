@@ -77,13 +77,16 @@ const BACKGROUND_FADE_START = Math.max(
 );
 
 const TYPED_LINES = [
-  "> tina",
+  "> Captain speaking...",
   "...",
-  "> today is your birthday",
+  "> Welcome aboard, Fati",
   "...",
-  "> so i made you this computer program",
+  "> today we celebrate a very special passenger",
   "...",
-  "٩(◕‿◕)۶ ٩(◕‿◕)۶ ٩(◕‿◕)۶"
+  "> it's your birthday, and this flight is dedicated to you",
+  "...",
+  "> please sit back, relax, and enjoy the surprise",
+  "✈︎ (◕‿◕) ♡"
 ];
 const TYPED_CHAR_DELAY = 100;
 const POST_TYPING_SCENE_DELAY = 1000;
