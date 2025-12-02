@@ -30,7 +30,7 @@ export function PictureFrame({
   ...groupProps
 }: PictureFrameProps) {
   const { gl } = useThree();
-  const gltf = useLoader(GLTFLoader, "picture_frame.glb");
+  const gltf = useLoader(GLTFLoader, "birthday-cake-from-crush/picture_frame.glb");
   const pictureTexture = useTexture(image);
 
   pictureTexture.colorSpace = SRGBColorSpace;
